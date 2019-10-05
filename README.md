@@ -8,6 +8,8 @@
 :point_down:
 
 1.fork this repository
+2.clone forked repository
+''' git clone "repository link" '''
 
  
 
