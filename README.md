@@ -7,6 +7,8 @@
 ###  :octocat:Follow this **guide**
 :point_down:
 
+1.fork this repository
+
  
 
 
