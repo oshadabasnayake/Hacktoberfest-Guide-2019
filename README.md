@@ -4,7 +4,7 @@
 
 ##  :octocat:Support open source
 
-###  :octocat:Follow this **guide**
+###  :octocat:Follow this EASY  **guide**:baby::heart_eyes:
 :point_down:
 
 1. **Fork this repository.**
@@ -25,11 +25,16 @@
 6. **Create your pull request.**
 7. **:octocat:Congratulations!!! You have successfully created your pull request.**
 8. **Check your progress here (https://hacktoberfest.digitalocean.com/profile) :bar_chart: .**
-9. Wait for your shirt:tshirt:.
+9. **Wait for your shirt:tshirt:.**
  
  ### Extra Help & Tips
  
  1. **[Profiles](https://github.com/oshada97/Hacktoberfest-2019/tree/master/Profiles)**
    *   Profiles is the folder which is used to add contributors profile info.
- 2. [Hello World]() & [Variables]()
+ 2. **[Hello World](https://github.com/oshada97/Hacktoberfest-2019/tree/master/Hello%20World) & [Variables](https://github.com/oshada97/Hacktoberfest-2019/tree/master/Variables)**
    * Hello World and Variables are the activity folders.
+
+        First Header | Second Header
+        ------------ | ------------
+        Content cell 1 | Content cell 2 
+        Content column 1 | Content column 
