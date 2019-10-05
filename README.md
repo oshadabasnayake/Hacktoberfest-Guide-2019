@@ -7,14 +7,14 @@
 ###  :octocat:Follow this **guide**
 :point_down:
 
-1. Fork this repository
-2. Clone forked repository 
+1. Fork this repository.
+2. Clone forked repository. 
 
       **enter this code** :point_right:```git clone "repository link"  ```
 
 3. Add name in Contributors.md file.
-4. Edit Profiles Folder
-5. Enter Terminal Commands
+4. Edit Profiles Folder.
+5. Enter Terminal Commands.
 
        ```
        git add -A
@@ -24,8 +24,8 @@
        ```
 6. Create your pull request.
 7. :octocat:Congratulations!!! You have successfully created your pull request.
-8. Check your progress here (https://hacktoberfest.digitalocean.com/profile)
-9. Wait for your shirt.
+8. Check your progress here (https://hacktoberfest.digitalocean.com/profile).
+9. Wait for your shirt:tshirt:.
  
 
 
