@@ -34,7 +34,7 @@
  2. **[Hello World](https://github.com/oshada97/Hacktoberfest-2019/tree/master/Hello%20World) & [Variables](https://github.com/oshada97/Hacktoberfest-2019/tree/master/Variables)**
    * Hello World and Variables are the activity folders.
 
-        First Header | Second Header
+        Hello World | Variables
         ------------ | ------------
-        Content cell 1 | Content cell 2 
-        Content column 1 | Content column 
+        Add your hello world code into this folder | Add your declared variable code to this folder
+          
