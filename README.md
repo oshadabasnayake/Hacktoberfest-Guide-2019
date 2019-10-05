@@ -24,7 +24,7 @@
        ```
 6. Create your pull request.
 7. :octocat:Congratulations!!! You have successfully created your pull request.
-8. Check your progress here (https://hacktoberfest.digitalocean.com/profile).
+8. Check your progress here (https://hacktoberfest.digitalocean.com/profile) :bar_chart: .
 9. Wait for your shirt:tshirt:.
  
 
