@@ -1,0 +1,16 @@
+1.Basic  Technologies
+
+>1.HTML
+>2.CSS
+>3.JAVASCRIPT
+>4.PHP
+
+2.Frameworks And Libraries
+
+>1.Jquerry
+>2.Angularjs
+>3.Ruby 
+
+3.ASP.NET
+
+4.Notepad++,Notepad,Sublime Text,VS Code
