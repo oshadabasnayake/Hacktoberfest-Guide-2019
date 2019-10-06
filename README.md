@@ -16,12 +16,11 @@
 4. **Edit Profiles Folder.**
 5. **Enter Terminal Commands.**
 
-       ```
-       git add -A
-       git commit -m "your name"
-       git push origin master
-       
-       ```
+      ```
+git add -A
+git commit -m "your name"
+git push origin master
+```
 6. **Create your pull request.**
 7. **:octocat:Congratulations!!! You have successfully created your pull request.**
 8. **Check your progress here (https://hacktoberfest.digitalocean.com/profile) :bar_chart: .**
