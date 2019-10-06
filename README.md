@@ -1,4 +1,5 @@
-#  :octocat:Hacktoberfest-2019
+#  :octocat:<a href="https://github.com/oshada97/Hacktoberfest-2019" style="color:red; text-align:center;">Hacktoberfest-2019</a>
+ 
  <a href="https://github.com/oshada97"><img src="Hacktoberfest2019.png"></a>
 
 
@@ -37,5 +38,7 @@ git push origin master
         ------------ | ------------
         Add your hello world code into this folder | Add your declared variable code to this folder
         
+        <a href="https://github.com/oshada97">
         <img src="octacat.jpg">
+        </a>
           
