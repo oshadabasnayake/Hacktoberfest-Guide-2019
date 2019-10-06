@@ -1,5 +1,5 @@
 #  :octocat:Hacktoberfest-2019
-![Hacktoberfest](https://github.com/oshada97/Hacktoberfest-2019/blob/master/Hacktoberfest2019.png)
+ <a href="https://github.com/oshada97"><img src="Hacktoberfest2019.png"></a>
 
 
 ##  :octocat:Support open source
