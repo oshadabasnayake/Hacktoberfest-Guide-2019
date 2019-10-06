@@ -36,4 +36,6 @@ git push origin master
         Hello World | Variables
         ------------ | ------------
         Add your hello world code into this folder | Add your declared variable code to this folder
+        
+        <img src="octacat.jpg">
           
