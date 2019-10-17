@@ -13,7 +13,7 @@
 
       **enter this code** :point_right:```git clone "repository link"  ```
 
-3. **Add name in Contributors.md file.**
+3. **Add name in Contributors.md file.Do same in here:point_right:[hacktoberfest-Activity-2019](https://github.com/oshada97/Hacktoberfest-Activity-2019)**
 4. **Edit Profiles Folder.**
 5. **Enter Terminal Commands.**
  ```
