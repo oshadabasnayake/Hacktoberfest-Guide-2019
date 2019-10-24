@@ -1,6 +1,6 @@
-#  :octocat:<a href="https://github.com/oshada97/Hacktoberfest-2019" style="color:red; text-align:center;">Hacktoberfest-2019</a>
+#  :octocat:<a href="https://github.com/Tilanmoksara96/Hacktoberfest-2019" style="color:red; text-align:center;">Hacktoberfest-2019</a>
  
- <a href="https://github.com/oshada97"><img src="Hacktoberfest2019.png"></a>
+ <a href="https://github.com/Tilanmoksara96"><img src="Hacktoberfest2019.png"></a>
 
 
 ##  :octocat:Support open source
@@ -13,7 +13,7 @@
 
       **enter this code** :point_right:```git clone "repository link"  ```
 
-3. **Add name in Contributors.md file.Do same in here:point_right:[hacktoberfest-Activity-2019](https://github.com/oshada97/Hacktoberfest-Activity-2019)**
+3. **Add name in Contributors.md file.Do same in here:point_right:[hacktoberfest-Activity-2019](https://github.com/Tilanmoksara96/Hacktoberfest-Activity-2019)**
 4. **Edit Profiles Folder.**
 5. **Enter Terminal Commands.**
  ```
@@ -29,16 +29,16 @@ git push origin master
  
  ### Extra Help & Tips
  
- 1. **[Profiles](https://github.com/oshada97/Hacktoberfest-2019/tree/master/Profiles)**
+ 1. **[Profiles](https://github.com/Tilanmoksara96/Hacktoberfest-2019/tree/master/Profiles)**
    *   Profiles is the folder which is used to add contributors profile info.
- 2. **[Hello World](https://github.com/oshada97/Hacktoberfest-2019/tree/master/Hello%20World) & [Variables](https://github.com/oshada97/Hacktoberfest-2019/tree/master/Variables)**
+ 2. **[Hello World](https://github.com/Tilanmoksara96/Hacktoberfest-2019/tree/master/Hello%20World) & [Variables](https://github.com/Tilanmoksara96/Hacktoberfest-2019/tree/master/Variables)**
    * Hello World and Variables are the activity folders.
 
         Hello World | Variables
         ------------ | ------------
         Add your hello world code into this folder | Add your declared variable code to this folder
         
-        <a href="https://github.com/oshada97">
+        <a href="https://github.com/Tilanmoksara96">
         <img src="octacat.jpg">
         </a>
           
