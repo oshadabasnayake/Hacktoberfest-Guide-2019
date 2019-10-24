@@ -1,5 +1,7 @@
 #  :octocat:<a href="https://github.com/oshada97/Hacktoberfest-2019" style="color:red; text-align:center;">Hacktoberfest-2019</a>
 # :octocat:<a href="https://github.com/oshada97/Hacktoberfest-Activity-2019" style="color:red; text-align:center;">කොල්ලන්ට කෙල්ලන්ට Hacktoberfest ටී ෂර්ට් :point_down:</a>
+
+## goto this site very first and do (https://hacktoberfest.digitalocean.com/profile)
  
  
  <a href="https://github.com/oshada97"><img src="Hacktoberfest2019.png"></a>
