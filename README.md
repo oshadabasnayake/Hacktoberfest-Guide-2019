@@ -1,5 +1,5 @@
 #  :octocat:<a href="https://github.com/oshada97/Hacktoberfest-2019" style="color:red; text-align:center;">Hacktoberfest-2019</a>
-# :octocat:<a href="https://github.com/oshada97/Hacktoberfest-Activity-2019" style="color:red; text-align:center;">කොල්ලන්ට කෙල්ලන්ට Hacktoberfest ටී ෂර්ට් :point_down:</a>
+# :octocat:<a href="https://github.com/oshada97/Hacktoberfest-Activity-2019" style="color:red; text-align:center;">කොල්ලන්ට කෙල්ලන්ට Hacktoberfest T-shirts :point_down:</a>
 
 ## goto this site very first and do (https://hacktoberfest.digitalocean.com/profile)
  
@@ -21,9 +21,9 @@
 4. **Edit Profiles Folder.**
 5. **Enter Terminal Commands.**
  ```
-git add -A
-git commit -m "your name"
-git push origin master
+git add .
+git commit -m "comment"
+git push 
 ```
 
 6. **Create your pull request.**
