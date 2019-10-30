@@ -17,7 +17,7 @@
 4. **Edit Profiles Folder.**
 5. **Enter Terminal Commands.**
  ```
-git add -A
+git add 
 git commit -m "your name"
 git push origin master
 ```
